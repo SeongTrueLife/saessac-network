@@ -1,0 +1,18 @@
+export const CHARACTER_COLORS: Record<string, string> = {
+  bulldozer_pm: 'from-red-400 to-orange-500',
+  impulsive_captain: 'from-yellow-400 to-orange-500',
+  mood_maker: 'from-pink-400 to-rose-500',
+  intuitive_leader: 'from-violet-400 to-pink-500',
+  careful_designer: 'from-blue-500 to-indigo-600',
+  quiet_sniper: 'from-slate-500 to-blue-600',
+  calm_analyst: 'from-teal-400 to-blue-500',
+  observer_planner: 'from-indigo-400 to-violet-500',
+  dawn_inspirer: 'from-purple-400 to-pink-500',
+  free_supporter: 'from-cyan-400 to-teal-500',
+  impulsive_experimenter: 'from-amber-400 to-yellow-500',
+  honest_ideator: 'from-lime-400 to-amber-500',
+  perfectionist_captain: 'from-rose-500 to-red-600',
+  versatile_executor: 'from-orange-400 to-amber-500',
+  warm_leader: 'from-green-400 to-teal-500',
+  calm_pusher: 'from-sky-400 to-indigo-500',
+};
